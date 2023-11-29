@@ -1,10 +1,10 @@
-# probabilidade-e-estatistica
+# probabilidade-e-estatística
 ---
-Cadeira do 4º período de probabilidade e estatistica
+Cadeira do 4º período de probabilidade e estatística
 
-Cadeira de análise e inferência estatística e probabilistica aplicada a código
+Cadeira de análise e inferência estatística e probabilística aplicada a código
 
-Codigo de analise realizado em dupla nas duas unidades
+Código de análise realizado em dupla nas duas unidades
 
 Primeira e segunda unidade com datasets distintos
 
